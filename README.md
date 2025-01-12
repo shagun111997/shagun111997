@@ -11,13 +11,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
-<a href="www.linkedin.com/in/shagun-jain-618857171" target="_blank">
+<a href="https://www.linkedin.com/in/shagun-jain-618857171/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://www.researchgate.net/profile/Shagun-Jain-6" target="_blank">
   <img src="https://static.startuptalky.com/2020/11/45e99a0d-f0ca-4b17-951a-ed0947f3fd0e-1510667426262.png" alt="ResearchGate" width="40" height="40"/>
 </a>
-<a href="[https://scholar.google.com/citations?user=YOUR-GOOGLE-SCHOLAR-ID](https://scholar.google.com/citations?user=FMvXuWUAAAAJ&hl=en&oi=ao)" target="_blank">
+<a href="https://scholar.google.com/citations?user=FMvXuWUAAAAJ&hl=en&oi=ao" target="_blank">
   <img src="https://logowik.com/content/uploads/images/google-scholar4372.jpg" alt="Google Scholar" width="40" height="40"/>
 </a>
 </p>
