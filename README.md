@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on **AI in smart agriculture and AI in healthcare**
 - 🌱 I’m currently learning: **Tranfer Learning, LLMs**
 - 📫 How to reach me: **shagunjain191172@gmail.com**
+- Personal Webiste: https://sites.google.com/view/shagunjain
 - ⚡ Fun fact: **My favorite IDE theme? Dark mode, always.**
 
 <h3 align="left">Connect with me:</h3>
